@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+.astro/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Capacitor
+ios/App/Pods/
+android/.gradle/
+android/app/build/
+
+# Testing
+coverage/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Claude
+.claude/

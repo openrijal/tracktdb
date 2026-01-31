@@ -1,0 +1,23 @@
+{
+  "name": "tracktdb",
+  "version": "1.0.0",
+  "description": "Media tracking application built with Astro, Vue, DrizzleORM, and Capacitor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openrijal/tracktdb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/openrijal/tracktdb/issues"
+  },
+  "homepage": "https://github.com/openrijal/tracktdb#readme",
+  "dependencies": {
+    "speckit-mcp-x": "^3.2.5"
+  }
+}
